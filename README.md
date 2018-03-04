@@ -11,4 +11,5 @@ In the head section of your header.tpl (located in /templates/six/) you need to 
 
 In the renewdomains.js file you NEED to configure the website in the variable called "website". 
 Kind of like this: var website = "WEBSITE GOES HERE!!"; // Enter your website here! 
-You must enter your website address there (eg:var website = "https://www.mydomain.com/client/"; // Enter your website here!  )
+You must enter your website address there 
+* (eg:var website = "https://www.mydomain.com/client/"; // Enter your website here!  )
